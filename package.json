@@ -1,0 +1,12 @@
+{
+    "name": "slss-tps",
+    "devDependencies": {
+        "@types/node": "^8.0.0"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^4.0.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "@types/mime": "^2.0.3",
+        "@yasasw/demo-scope.storage.s3": "^0.0.3"
+    }
+}
